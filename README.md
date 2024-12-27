@@ -132,3 +132,9 @@ This repository provides a solution to extract structured data from PDF document
    ```bash
    git clone <repository_url>
    cd <repository_name>
+   ```
+  
+2. Install the modules and dependencies
+   ```bash
+   pip install -r requirements.txt
+
