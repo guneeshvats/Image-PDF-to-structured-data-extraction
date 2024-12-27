@@ -99,3 +99,36 @@ This repository provides a solution to extract structured data from PDF document
     ...
   ]
 }
+```
+
+## Tools and Frameworks
+
+- **Programming Language**: Python
+- **Libraries**:
+  - `pdf2image`: For PDF-to-image conversion.
+  - `pytesseract`: For OCR processing.
+  - `re`: For regex-based parsing.
+  - `transformers`: For LLM-based parsing.
+- **Environment**: Local Python environment with dependencies listed in `requirements.txt`.
+
+---
+
+## Future Directions
+
+1. **Domain-Specific LLM Fine-Tuning**:
+   - Fine-tune LLMs for improved accuracy on sports statistics data.
+2. **Hybrid Approach**:
+   - Combine rule-based parsing for straightforward fields with LLMs for complex records.
+3. **Enhanced Preprocessing**:
+   - Develop advanced cleaning algorithms to handle OCR artifacts more effectively.
+4. **Automated Evaluation**:
+   - Integrate metrics to evaluate the completeness and accuracy of the extracted data.
+
+---
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd <repository_name>
