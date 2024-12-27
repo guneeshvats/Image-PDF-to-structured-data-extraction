@@ -38,6 +38,22 @@ This repository provides a solution to extract structured data from PDF document
 
 ---
 
+
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd <repository_name>
+   ```
+  
+2. Install the modules and dependencies
+   ```bash
+   pip install -r requirements.txt
+
+---
+
 ## Methodology
 
 ### 1. PDF to Image Conversion
@@ -125,16 +141,4 @@ This repository provides a solution to extract structured data from PDF document
    - Integrate metrics to evaluate the completeness and accuracy of the extracted data.
 
 ---
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-  
-2. Install the modules and dependencies
-   ```bash
-   pip install -r requirements.txt
 
