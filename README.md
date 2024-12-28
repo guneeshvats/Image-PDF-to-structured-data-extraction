@@ -112,7 +112,9 @@ This repository provides a solution to extract structured data from PDF document
       "ranking": 1,
       "season": 2012
     },
-    ...
+    .
+    .
+    .
   ]
 }
 ```
