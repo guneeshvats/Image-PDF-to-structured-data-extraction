@@ -27,7 +27,7 @@ This repository provides a solution to extract structured data from PDF document
 ---
 
 ## Repository Structure
-
+Each file is a step in the process (and the step number is there in the name of `.py` file
 - **`0_pdf_to_images.py`**: Converts PDF pages into high-resolution images.
 - **`1_text_ocr.py`**: Applies OCR to extract text from images.
 - **`1.1_text_cleaning.py`**: Cleans OCR output and consolidates fragmented lines.
