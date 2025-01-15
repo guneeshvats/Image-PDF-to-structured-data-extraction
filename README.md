@@ -4,6 +4,8 @@
 
 This repository provides a solution to extract structured data from PDF documents containing sports statistics tables, specifically for American football. The output includes metadata about each table and the extracted records, providing valuable insights into player and team performance.
 
+UPDATE : Also going to submit a portion of this whole idea for the conference - "Mathsport" [for now its just an abstract]
+
 ### Problem Statement
 
 **Input**: A PDF with several tables about sports statistics (American football) with player and team performance.
